@@ -1,0 +1,8 @@
+name: GlitchCraft
+version: '${version}'
+main: pk.panther.glitchcraft.GlitchCraft
+api-version: 1.16
+load: STARTUP
+authors: [ 'pantherpk' ]
+libraries:
+  - org.projectlombok:lombok:1.18.28
